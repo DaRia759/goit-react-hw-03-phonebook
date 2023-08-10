@@ -1,0 +1,27 @@
+.contactList {
+    list-style-type: none;
+    padding: 0;
+    margin: 0; 
+}
+
+.contactList li {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f2f2f2;
+}
+
+.contactList button {
+    background-color: #e53935;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contactList span {
+    font-style: italic;
+}

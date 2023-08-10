@@ -1,0 +1,17 @@
+label {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 300px;
+}
+
+span {
+    font-size: large;
+}
